@@ -6,13 +6,14 @@ export interface DivProps {
 export interface TextProps {
     color?: string;
     weight?: "light" | "regular" | "medium" | "semibold" | "bold" | "black";
+    responsive?: boolean;
 }
 export declare const H1: import("styled-components").StyledComponent<"h1", any, TextProps, never>;
 export declare const H2: import("styled-components").StyledComponent<"h2", any, TextProps, never>;
 export declare const H3: import("styled-components").StyledComponent<"h3", any, TextProps, never>;
 export declare const H4: import("styled-components").StyledComponent<"h4", any, TextProps, never>;
 export declare const H5: import("styled-components").StyledComponent<"h5", any, TextProps, never>;
-export declare const H6: import("styled-components").StyledComponent<"h5", any, TextProps, never>;
+export declare const H6: import("styled-components").StyledComponent<"h6", any, TextProps, never>;
 export declare const P: import("styled-components").StyledComponent<"p", any, TextProps, never>;
 export declare const Label: import("styled-components").StyledComponent<"label", any, TextProps, never>;
 export declare const Medium: import("styled-components").StyledComponent<"span", any, TextProps, never>;

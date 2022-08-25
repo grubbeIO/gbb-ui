@@ -1,6 +1,6 @@
 /// <reference types="react" />
 export interface StylingBigButton {
-    id: string;
+    id?: string | undefined;
     type?: "email" | "link";
     theme?: "jungle" | "punch" | "studio" | "havelock";
 }
