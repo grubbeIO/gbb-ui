@@ -4,7 +4,7 @@ import React from "react";
  * ------------------------------
  */
 export interface InputDateProps {
-    id: string;
+    id?: string | undefined;
     label?: string;
     inputDisplay?: "calendar" | "time" | "both";
 }

@@ -1,3 +1,222 @@
+# v0.1.58 (Thu Aug 25 2022)
+
+#### 🐛 Bug Fix
+
+- UI-1/appliying unsecured copy to clipboard [#6](https://github.com/grubbeIO/ui/pull/6) ([@suspectDEV](https://github.com/suspectDEV))
+
+#### Authors: 1
+
+- Suspect ([@suspectDEV](https://github.com/suspectDEV))
+
+---
+
+# v0.1.57 (Thu Aug 25 2022)
+
+#### 🐛 Bug Fix
+
+- UI-2/hotfix [#5](https://github.com/grubbeIO/ui/pull/5) ([@suspectDEV](https://github.com/suspectDEV) [@alxfl](https://github.com/alxfl))
+- UI-2/hotfix [#4](https://github.com/grubbeIO/ui/pull/4) ([@suspectDEV](https://github.com/suspectDEV) [@alxfl](https://github.com/alxfl))
+- Main [#3](https://github.com/grubbeIO/ui/pull/3) ([@alxfl](https://github.com/alxfl) [@suspectDEV](https://github.com/suspectDEV) runner@fv-az200-228.swdxaxenvgxe1kqentp15g1mgd.jx.internal.cloudapp.net)
+
+#### Authors: 3
+
+- AlexFL ([@alxfl](https://github.com/alxfl))
+- grubbe (runner@fv-az200-228.swdxaxenvgxe1kqentp15g1mgd.jx.internal.cloudapp.net)
+- Suspect ([@suspectDEV](https://github.com/suspectDEV))
+
+---
+
+# v0.1.50 (Thu Aug 25 2022)
+
+#### 🐛 Bug Fix
+
+- UI-2 Solved typography size ([@suspectDEV](https://github.com/suspectDEV))
+- Optional id - string or undefined types ([@suspectDEV](https://github.com/suspectDEV))
+- Upgrade Storybook ([@suspectDEV](https://github.com/suspectDEV))
+- init v0.1.51 - yarn dev ([@suspectDEV](https://github.com/suspectDEV))
+- /utils/New rollup ([@suspectDEV](https://github.com/suspectDEV))
+- v0.1.50 ([@suspectDEV](https://github.com/suspectDEV))
+- PR/New version [#1](https://github.com/grubbeIO/ui/pull/1) ([@suspectDEV](https://github.com/suspectDEV))
+
+#### ⚠️ Pushed to `main`
+
+- recovering husky. Changing node version ([@suspectDEV](https://github.com/suspectDEV))
+- deleted huskyç ([@suspectDEV](https://github.com/suspectDEV))
+- yml files to github workflows ([@suspectDEV](https://github.com/suspectDEV))
+- New script to run dev environment ([@suspectDEV](https://github.com/suspectDEV))
+
+#### Authors: 1
+
+- Suspect ([@suspectDEV](https://github.com/suspectDEV))
+
+---
+
+# v0.1.50 (Wed Aug 24 2022)
+
+#### 🐛 Bug Fix
+
+- UI-2 Solved typography size ([@suspectDEV](https://github.com/suspectDEV))
+- Optional id - string or undefined types ([@suspectDEV](https://github.com/suspectDEV))
+- Upgrade Storybook ([@suspectDEV](https://github.com/suspectDEV))
+- init v0.1.51 - yarn dev ([@suspectDEV](https://github.com/suspectDEV))
+- /utils/New rollup ([@suspectDEV](https://github.com/suspectDEV))
+- v0.1.50 ([@suspectDEV](https://github.com/suspectDEV))
+- PR/New version [#1](https://github.com/grubbeIO/ui/pull/1) ([@suspectDEV](https://github.com/suspectDEV))
+
+#### ⚠️ Pushed to `main`
+
+- deleted huskyç (alexander.forerolopez@gmail.com)
+- yml files to github workflows ([@suspectDEV](https://github.com/suspectDEV))
+- New script to run dev environment ([@suspectDEV](https://github.com/suspectDEV))
+
+#### Authors: 2
+
+- Suspect ([@suspectDEV](https://github.com/suspectDEV))
+- suspectDEV (alexander.forerolopez@gmail.com)
+
+---
+
+# v0.1.50 (Wed Aug 24 2022)
+
+#### 🐛 Bug Fix
+
+- UI-2 Solved typography size ([@suspectDEV](https://github.com/suspectDEV))
+- Optional id - string or undefined types ([@suspectDEV](https://github.com/suspectDEV))
+- Upgrade Storybook ([@suspectDEV](https://github.com/suspectDEV))
+- init v0.1.51 - yarn dev ([@suspectDEV](https://github.com/suspectDEV))
+- /utils/New rollup ([@suspectDEV](https://github.com/suspectDEV))
+- v0.1.50 ([@suspectDEV](https://github.com/suspectDEV))
+- PR/New version [#1](https://github.com/grubbeIO/ui/pull/1) ([@suspectDEV](https://github.com/suspectDEV))
+
+#### ⚠️ Pushed to `main`
+
+- yml files to github workflows ([@suspectDEV](https://github.com/suspectDEV))
+- New script to run dev environment ([@suspectDEV](https://github.com/suspectDEV))
+
+#### Authors: 1
+
+- Suspect ([@suspectDEV](https://github.com/suspectDEV))
+
+---
+
+# v0.1.50 (Wed Aug 24 2022)
+
+#### 🐛 Bug Fix
+
+- UI-2 Solved typography size ([@suspectDEV](https://github.com/suspectDEV))
+- Optional id - string or undefined types ([@suspectDEV](https://github.com/suspectDEV))
+- Upgrade Storybook ([@suspectDEV](https://github.com/suspectDEV))
+- init v0.1.51 - yarn dev ([@suspectDEV](https://github.com/suspectDEV))
+- /utils/New rollup ([@suspectDEV](https://github.com/suspectDEV))
+- v0.1.50 ([@suspectDEV](https://github.com/suspectDEV))
+- PR/New version [#1](https://github.com/grubbeIO/ui/pull/1) ([@suspectDEV](https://github.com/suspectDEV))
+
+#### ⚠️ Pushed to `main`
+
+- New script to run dev environment ([@suspectDEV](https://github.com/suspectDEV))
+
+#### Authors: 1
+
+- Suspect ([@suspectDEV](https://github.com/suspectDEV))
+
+---
+
+# v0.1.50 (Wed Aug 24 2022)
+
+#### 🐛 Bug Fix
+
+- UI-2 Solved typography size ([@suspectDEV](https://github.com/suspectDEV))
+- Optional id - string or undefined types ([@suspectDEV](https://github.com/suspectDEV))
+- Upgrade Storybook ([@suspectDEV](https://github.com/suspectDEV))
+- init v0.1.51 - yarn dev ([@suspectDEV](https://github.com/suspectDEV))
+- /utils/New rollup ([@suspectDEV](https://github.com/suspectDEV))
+- v0.1.50 ([@suspectDEV](https://github.com/suspectDEV))
+- PR/New version [#1](https://github.com/grubbeIO/ui/pull/1) ([@suspectDEV](https://github.com/suspectDEV))
+
+#### ⚠️ Pushed to `main`
+
+- New script to run dev environment ([@suspectDEV](https://github.com/suspectDEV))
+
+#### Authors: 1
+
+- Suspect ([@suspectDEV](https://github.com/suspectDEV))
+
+---
+
+# v0.1.50 (Wed Aug 24 2022)
+
+#### 🐛 Bug Fix
+
+- UI-2 Solved typography size ([@suspectDEV](https://github.com/suspectDEV))
+- Optional id - string or undefined types ([@suspectDEV](https://github.com/suspectDEV))
+- Upgrade Storybook ([@suspectDEV](https://github.com/suspectDEV))
+- init v0.1.51 - yarn dev ([@suspectDEV](https://github.com/suspectDEV))
+- /utils/New rollup ([@suspectDEV](https://github.com/suspectDEV))
+- v0.1.50 ([@suspectDEV](https://github.com/suspectDEV))
+- PR/New version [#1](https://github.com/grubbeIO/ui/pull/1) ([@suspectDEV](https://github.com/suspectDEV))
+
+#### ⚠️ Pushed to `main`
+
+- New script to run dev environment ([@suspectDEV](https://github.com/suspectDEV))
+
+#### Authors: 1
+
+- Suspect ([@suspectDEV](https://github.com/suspectDEV))
+
+---
+
+# v0.1.50 (Wed Aug 24 2022)
+
+#### 🐛 Bug Fix
+
+- UI-2 Solved typography size ([@suspectDEV](https://github.com/suspectDEV))
+- Optional id - string or undefined types ([@suspectDEV](https://github.com/suspectDEV))
+- Upgrade Storybook ([@suspectDEV](https://github.com/suspectDEV))
+- init v0.1.51 - yarn dev ([@suspectDEV](https://github.com/suspectDEV))
+- /utils/New rollup ([@suspectDEV](https://github.com/suspectDEV))
+- v0.1.50 ([@suspectDEV](https://github.com/suspectDEV))
+- PR/New version [#1](https://github.com/grubbeIO/ui/pull/1) ([@suspectDEV](https://github.com/suspectDEV))
+
+#### ⚠️ Pushed to `main`
+
+- New script to run dev environment ([@suspectDEV](https://github.com/suspectDEV))
+
+#### Authors: 1
+
+- Suspect ([@suspectDEV](https://github.com/suspectDEV))
+
+---
+
+# v0.1.49 (Wed Mar 09 2022)
+
+#### ⚠️ Pushed to `main`
+
+- reseting paragraph font size ([@suspectDEV](https://github.com/suspectDEV))
+- align-center Navigation section ([@suspectDEV](https://github.com/suspectDEV))
+- implementing weight to buttons ([@suspectDEV](https://github.com/suspectDEV))
+- implementing HTMLAttributes in header components ([@suspectDEV](https://github.com/suspectDEV))
+
+#### Authors: 1
+
+- Suspect ([@suspectDEV](https://github.com/suspectDEV))
+
+---
+
+# v0.1.48 (Mon Mar 07 2022)
+
+#### ⚠️ Pushed to `main`
+
+- fixed bugs and new header component ([@suspectDEV](https://github.com/suspectDEV))
+- responsive typography and buttons bug fixed ([@suspectDEV](https://github.com/suspectDEV))
+- clean and fixed bug sidebar ([@suspectDEV](https://github.com/suspectDEV))
+- responsive typography and expanded menu item ([@suspectDEV](https://github.com/suspectDEV))
+
+#### Authors: 1
+
+- Suspect ([@suspectDEV](https://github.com/suspectDEV))
+
+---
+
 # v0.1.45 (Tue Feb 01 2022)
 
 #### ⚠️ Pushed to `main`

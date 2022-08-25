@@ -86,19 +86,19 @@ export declare const typography: {
         readonly l1: 19;
     };
     readonly size: {
-        readonly h1: 56;
-        readonly h2: 40;
-        readonly h3: 32;
-        readonly h4: 28;
-        readonly h5: 22;
-        readonly h6: 18;
+        readonly h1: 3.5;
+        readonly h2: 2.8;
+        readonly h3: 2.25;
+        readonly h4: 1.8;
+        readonly h5: 1.4;
+        readonly h6: 1;
         readonly s1: 10;
         readonly s2: 11;
         readonly s3: 12;
         readonly s4: 13;
         readonly m1: 14;
         readonly m2: 15;
-        readonly m3: 16;
+        readonly m3: 17;
         readonly m4: 18;
         readonly code: 15;
     };

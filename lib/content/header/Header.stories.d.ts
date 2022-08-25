@@ -12,4 +12,5 @@ export declare const Basic: {
         orientation: string;
     };
 };
+export declare const SectionNav: () => JSX.Element;
 export declare const AppleHeaderClone: () => JSX.Element;
